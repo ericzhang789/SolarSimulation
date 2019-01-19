@@ -1,0 +1,21 @@
+Yo
+
+LT spice interface is crustier than...
+Also, its super crusty on Mac
+
+Here are the must knows: 
+1. To edit ANYTHING you see on the schematic, just right click it.
+	-eg. to change resistor value, just right click on the number you see to edit.
+	-to run the simulation, click the running lizard.
+
+2. Click the icon with the graphs to view the simulation output (its called a trace).
+
+3. Right click anywhere in the trace window to add traces. I've tried to label them logically.
+
+4. .ic is initial conditions. I've set it to 3.3V so your computer doesn't explode trying during the transient analysis.
+
+5. .tran is transient analysis, 10m is 10 milliseconds runtime. 10ms seems plenty to get us to steady state.
+
+6. keyboard shortcuts for the simple things:
+	-r for resistor, c for capacitor, d for diode etc
+	-delete key to delete.
