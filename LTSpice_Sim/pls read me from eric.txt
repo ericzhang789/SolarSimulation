@@ -4,6 +4,8 @@ LT spice interface is crustier than...
 Also, its super crusty on Mac
 
 Here are the must knows: 
+0. The simulation file is the .asc file
+
 1. To edit ANYTHING you see on the schematic, just right click it.
 	-eg. to change resistor value, just right click on the number you see to edit.
 	-to run the simulation, click the running lizard.
